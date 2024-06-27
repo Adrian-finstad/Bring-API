@@ -1,0 +1,13 @@
+{
+  "name": "inselo-bring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "booking.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node booking.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
