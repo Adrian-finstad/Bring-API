@@ -76,7 +76,7 @@ const data = JSON.stringify({
         customerNumber: "5",
         id: "9300",
       },
-      shippingDateTime: "2023-04-27T13:32:20+02:00",
+      shippingDateTime: "2024-06-30T13:32:20+02:00",
     },
   ],
   schemaVersion: 1,
